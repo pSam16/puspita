@@ -89,6 +89,10 @@ h2 {
     font-weight: 600;
     color: #2c2c2c;
     margin-bottom: 2px;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #e53e7d;
 }
 
 .item-location {
